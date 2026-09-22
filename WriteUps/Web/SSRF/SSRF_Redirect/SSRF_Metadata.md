@@ -121,7 +121,8 @@ O conteúdo obtido através do acesso local continha o mesmo valor presente na t
 Por questões de privacidade e para evitar a exposição de informações que possam identificar o serviço, o conteúdo HTML presente na evidência foi parcialmente ocultado.
 
 ### Evidências
-Requisição para o servidor controlado:
+Requisição para o servidor controlado:   
+
 ![Requisição ao servidor controlado](Poc_images/requisicao.png)
 A imagem demonstra o conteúdo retornado após o acesso a localhost, mantendo apenas as informações necessárias para comprovar o comportamento.
 ![Payload inserido no parâmetro](Poc_images/RespostaMetadados.png)
