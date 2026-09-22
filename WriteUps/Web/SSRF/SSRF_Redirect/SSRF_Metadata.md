@@ -123,8 +123,10 @@ Por questões de privacidade e para evitar a exposição de informações que po
 ### Evidências
 Requisição para o servidor controlado:   
 
-![Requisição ao servidor controlado](Poc_images/requisicao.png)
-A imagem demonstra o conteúdo retornado após o acesso a localhost, mantendo apenas as informações necessárias para comprovar o comportamento.
+![Requisição ao servidor controlado](Poc_images/requisicao.png)  
+
+A imagem demonstra o conteúdo retornado após o acesso a localhost, mantendo apenas as informações necessárias para comprovar o comportamento.  
+
 ![Payload inserido no parâmetro](Poc_images/RespostaMetadados.png)
 
 Esse comportamento demonstra que, embora o acesso direto ao destino local fosse bloqueado, a aplicação podia ser induzida a acessar `localhost` por meio de um redirecionamento HTTP.
