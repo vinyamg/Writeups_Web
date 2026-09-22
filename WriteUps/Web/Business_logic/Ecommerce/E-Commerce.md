@@ -2,7 +2,7 @@
 
 **Tipo de falha:** Business Logic Flaw  
 **Gravidade:** Alta  
-**Categoria:** E-commerce
+**Categoria:** A04:2021 – Insecure Design / CWE-840
 
 ## Contexto
 Durante a análise de fluxos de compra em uma aplicação web, identifiquei um cenário em que a lógica de negócios poderia ser contornada passivamente, sem exploração real ou impacto a outros usuários. A análise foi conduzida de forma ética, em ambiente controlado, sem realizar transações.
